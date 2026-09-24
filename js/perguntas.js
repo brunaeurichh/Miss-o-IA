@@ -1,4 +1,4 @@
-const perguntas = [
+export const perguntas = [
     {
         enunciado: "Quais são os princípios doutrinários que regem o funcionamento, a filosofia e o acesso ao SUS para garantir os direitos do cidadão?",
         alternativas: [
