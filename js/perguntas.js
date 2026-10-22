@@ -23,7 +23,7 @@ export const perguntas = [
             alternativas: [
                 {
                     texto: ["O investimento em vacinas deve ser máximo e obrigatório para toda a população, pois a proteção coletiva e a erradicação de vírus salvam o sistema de saúde de colapsos.",
-                    afirmacao: "Você demonstra um perfil consciente e dedicado a compreender os direitos dos cidadãos e os mecanismos públicos de amparo à sociedade.",
+                    afirmacao: "Você demonstra um perfil consciente e dedicado a compreender os direitos dos cidadãos e os mecanismos públicos de amparo à sociedade."
                     ]
                                "Sua postura é analítica e voltada para o entendimento das garantias sociais e das políticas criadas para a proteção coletiva."
                 },
@@ -47,7 +47,7 @@ export const perguntas = [
                     ]
                 },
                 {
-                    texto:    ["A melhoria do saneamento deve ser feita de forma gradual e planejada por bairros, garantindo que o orçamento público atual não fique sobrecarregado no curto prazo."
+                    texto:    ["A melhoria do saneamento deve ser feita de forma gradual e planejada por bairros, garantindo que o orçamento público atual não fique sobrecarregado no curto prazo.",
                     afirmacao: "Você demonstra um perfil solidário e perspicaz, que se importa com a proteção dos mais vulneráveis e com a aplicação prática da equidade.",
                                "Sua perspectiva é realista e equilibrada, demonstrando preocupação com a eficiência do projeto e com a viabilidade econômica imediata."
                     ]
