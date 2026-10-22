@@ -23,9 +23,9 @@ export const perguntas = [
             alternativas: [
                 {
                     texto: ["O investimento em vacinas deve ser máximo e obrigatório para toda a população, pois a proteção coletiva e a erradicação de vírus salvam o sistema de saúde de colapsos.",
-                    afirmacao: "Você demonstra um perfil consciente e dedicado a compreender os direitos dos cidadãos e os mecanismos públicos de amparo à sociedade."
-                    ]
+                    afirmacao: "Você demonstra um perfil consciente e dedicado a compreender os direitos dos cidadãos e os mecanismos públicos de amparo à sociedade.
                                "Sua postura é analítica e voltada para o entendimento das garantias sociais e das políticas criadas para a proteção coletiva."
+                    ]
                 },
                 {
                     texto:  ["As campanhas devem focar prioritariamente na conscientização e no diálogo, avaliando os custos de distribuição antes de impor regras rígidas para toda a população.",
